@@ -1,0 +1,15 @@
+.col {
+  background-color: #000;
+  border: 2px solid red;
+  color: red;
+  text-align: start;
+  justify-content: flex-start;
+}
+.row {
+  text-align: start;
+  justify-content: flex-start;
+}
+.container {
+  text-align: start;
+  justify-content: flex-start;
+}
